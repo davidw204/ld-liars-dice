@@ -3,7 +3,8 @@ package util;
 import static util.Converter.hexStringToByteArray;
 
 public final class CommandIDs {
-
+	
+	/* privater Konstrukur um Instanzierung zu verhindern  */
 	private CommandIDs() {
 	}
 
